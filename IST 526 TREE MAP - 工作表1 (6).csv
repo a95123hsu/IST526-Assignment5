@@ -1,0 +1,26 @@
+Indent Level,Research Area and Faculty Name,Parent,Number of Publications
+0,All Research Area,NaN,2997
+1,Data Sciences and Artificial Intelligence,All Research Area,1356
+1,Human-Computer Interaction,All Research Area,634
+1,Privacy and Security ,All Research Area,543
+1,Social and Organizational Informatics,All Research Area,464
+2,C. Lee Giles,Data Sciences and Artificial Intelligence,773
+2,John Yen,Data Sciences and Artificial Intelligence,430
+2,Qingyun Wu,Data Sciences and Artificial Intelligence,31
+2,Justin Silverman,Data Sciences and Artificial Intelligence,38
+2,Sarah Rajtmajer,Data Sciences and Artificial Intelligence,84
+2,Saeed Abdullah,Human-Computer Interaction,75
+2,Syed Billah,Human-Computer Interaction,31
+2,Frank Ritter,Human-Computer Interaction,392
+2,Ting-Hao (Kenneth),Human-Computer Interaction,71
+2,Yubo Kou,Human-Computer Interaction,65
+2,Taegyu Kim,Privacy and Security ,16
+2,Edward J. Glantz,Privacy and Security ,31
+2,Dinghao Wu,Privacy and Security ,133
+2,Dongwon Lee,Privacy and Security ,329
+2,Jinghui Chen,Privacy and Security ,34
+2,Fred Fonseca,Social and Organizational Informatics,122
+2,Kelley Cotter,Social and Organizational Informatics,22
+2,Lynette Yarger,Social and Organizational Informatics,119
+2,Urja Vora,Social and Organizational Informatics,22
+2,Andrea Tapia,Social and Organizational Informatics,179
